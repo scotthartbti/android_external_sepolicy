@@ -73,3 +73,6 @@ attribute bluetoothdomain;
 
 # All domains used for binder service domains.
 attribute binderservicedomain;
+
+# All domains used for tad service.
+attribute tad_placeholder;
